@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haarikaalla.github.io/sitemap.xml
